@@ -41,6 +41,8 @@
     "Clear H2",
     "Clear H3",
     "Flag G8",
-    "Clear H8"
-  ]
+    "Clear H8",
+    "Flag A2",
+    "Clear A1"
+  ] 
 }
