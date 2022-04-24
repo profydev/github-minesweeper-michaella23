@@ -15,6 +15,18 @@
     "Clear F4",
     "Clear F5",
     "Clear F6",
-    "Flag F7"
+    "Flag F7",
+    "Clear C2",
+    "Clear C3",
+    "Flag D2",
+    "Clear E2",
+    "Clear F2",
+    "Clear G2",
+    "Flag G3",
+    "Clear G4",
+    "Clear G5",
+    "Clear G6",
+    "Clear G7",
+    "Clear F8"
   ]
 }
