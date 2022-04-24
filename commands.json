@@ -9,6 +9,10 @@
     "Clear G5",
     "Clear G4",
     "Flag G3",
-    "Flag F3"
+    "Flag F3",
+    "Flag D8",
+    "Clear C8",
+    "Flag B8",
+    "Clear A8"
   ]
 }
