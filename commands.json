@@ -4,6 +4,11 @@
     "Clear D6",
     "Flag E3",
     "Flag E2",
-    "Clear E1"
+    "Clear E1",
+    "Flag G6",
+    "Clear G5",
+    "Clear G4",
+    "Flag G3",
+    "Flag F3"
   ]
 }
